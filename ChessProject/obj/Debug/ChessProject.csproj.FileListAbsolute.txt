@@ -1,0 +1,11 @@
+D:\Folders\Documents\Visual Studio 2019\ChessProject\ChessProject\obj\Debug\ChessProject.csproj.AssemblyReference.cache
+D:\Folders\Documents\Visual Studio 2019\ChessProject\ChessProject\obj\Debug\ChessProject.csproj.SuggestedBindingRedirects.cache
+D:\Folders\Documents\Visual Studio 2019\ChessProject\ChessProject\obj\Debug\ChessProject.Form1.resources
+D:\Folders\Documents\Visual Studio 2019\ChessProject\ChessProject\obj\Debug\ChessProject.Properties.Resources.resources
+D:\Folders\Documents\Visual Studio 2019\ChessProject\ChessProject\obj\Debug\ChessProject.csproj.GenerateResource.cache
+D:\Folders\Documents\Visual Studio 2019\ChessProject\ChessProject\obj\Debug\ChessProject.csproj.CoreCompileInputs.cache
+D:\Folders\Documents\Visual Studio 2019\ChessProject\ChessProject\bin\Debug\ChessProject.exe.config
+D:\Folders\Documents\Visual Studio 2019\ChessProject\ChessProject\bin\Debug\ChessProject.exe
+D:\Folders\Documents\Visual Studio 2019\ChessProject\ChessProject\bin\Debug\ChessProject.pdb
+D:\Folders\Documents\Visual Studio 2019\ChessProject\ChessProject\obj\Debug\ChessProject.exe
+D:\Folders\Documents\Visual Studio 2019\ChessProject\ChessProject\obj\Debug\ChessProject.pdb
